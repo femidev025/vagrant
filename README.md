@@ -1,4 +1,4 @@
-# vagrant
+# Vagrant
 A Vagrant Lab For Linux Training
 
 # 🖥️ Multi-VM Vagrant Lab (Ubuntu Jammy 22.04)
@@ -16,8 +16,11 @@ For Mac Users Run the command
 
 ```bash
 brew install --cask vagrant
-vagrant box add ubuntu/jammy64
+```
+
 ```bash
+vagrant box add ubuntu/jammy64
+```
 
 You can verify your setup with:
 
